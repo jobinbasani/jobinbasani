@@ -12,7 +12,8 @@
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon+web+services&logoColor=white" />
   <img alt="SQS" src="https://img.shields.io/badge/-SQS-FF9900?style=flat-square&logo=Amazon+SQS&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Groovy" src="https://img.shields.io/badge/-Groovy-619dbd?style=flat-square&logo=apachegroovy&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="DynamoDB" src="https://img.shields.io/badge/-DynamoDB-FF9900?style=flat-square&logo=amazondynamodb&logoColor=white" />
